@@ -10,11 +10,12 @@ public class DialogueScript : MonoBehaviour
 
     public static DialogueScript instance;
     public GameObject continueButton, backButton;
-    BattleSystem bS;
-    public bool endTurn = true;
-    
+    public bool endTurn = false;
+    public int eventQueueCount;
 
-    public string furtherInformation = null;
+    public Queue<BattleEvent> eventQueue = new Queue<BattleEvent>();
+    
+    
 
     private void Awake()
     {
@@ -28,8 +29,6 @@ public class DialogueScript : MonoBehaviour
 
     private void Start()
     {
-        bS = BattleSystem.instance;
-        furtherInformation = null;
     }
 
     public void DisplayMessage(string message)
@@ -37,51 +36,69 @@ public class DialogueScript : MonoBehaviour
         dialogue.text = message;
     }
 
-    public void Continue()
+    public void OnContinue()
     {
-        if (furtherInformation != null)
+        if (endTurn)
         {
-            dialogue.text = furtherInformation;
-            furtherInformation = null;
+            endTurn = false;
+            return;
         }
-        else
-        {
-            continueButton.SetActive(false);
-            if (bS.player1Pokemon.GetComponent<Unit>().fainted || bS.player2Pokemon.GetComponent<Unit>().fainted)
-            {
-                return;
-            }
-            if (endTurn)
-            {
-                if (bS.state == BattleState.PLAYER1TURN)
-                    bS.BeginPlayerTurn(2);
-                else
-                    bS.BeginPlayerTurn(1);
-            }
-            else
-            {
-                endTurn = true;
-                if (bS.state == BattleState.PLAYER1TURN)
-                    bS.BeginPlayerTurn(1);
-                else
-                    bS.BeginPlayerTurn(2);
-                return;
-            }
-        }
+
+        NextEvent();
+    }
+
+    public void AddBattleEvent(string eventText, bool changeTurn, bool pokemonFainted)
+    {
+        BattleEvent newBE = new BattleEvent();
+        newBE.displayMessage = eventText;
+        newBE.changeTurn = changeTurn;
+        newBE.pokemonFainted = pokemonFainted;
+        eventQueue.Enqueue(newBE);
 
     }
 
-    public void EnableContinueButton()
+    public void NextEvent()
     {
-        continueButton.SetActive(true);
-        backButton.SetActive(false);
+        BattleEvent nextEvent = eventQueue.Dequeue();
+        DisplayMessage(nextEvent.displayMessage);
+
+        if (nextEvent.changeTurn)
+        {
+            endTurn = true;
+        }
+
+        if (nextEvent.pokemonFainted)
+        {
+        }
     }
+    
 
     public void Update()
     {
-        if (furtherInformation != null)
+        if (eventQueue.Count > 0 || endTurn)
         {
             continueButton.SetActive(true);
+            backButton.SetActive(false);
         }
+
+        else
+        {
+            continueButton.SetActive(false);
+        }
+        eventQueueCount = eventQueue.Count;
+    }
+}
+
+public class BattleEvent
+{
+    public string displayMessage;
+    public bool changeTurn;
+    public bool pokemonFainted;
+
+    public BattleEvent()
+    {
+        displayMessage = "";
+        changeTurn = false;
+        pokemonFainted = false;
     }
 }

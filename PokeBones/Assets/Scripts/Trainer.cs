@@ -4,26 +4,25 @@ using UnityEngine;
 
 public class Trainer : MonoBehaviour
 {
+    public string trainerName;
     public Sprite trainerFront, trainerBack;
-    public string username;
-    public int level = 0, exp, expNeeded;
+    public bool close;
+
+    SpriteRenderer sR;
 
     // Start is called before the first frame update
     void Start()
     {
-        LevelUp();
+        sR = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (close)
+            sR.sprite = trainerBack;
+        else
+            sR.sprite = trainerFront;
     }
-
-    void LevelUp()
-    {
-        level++;
-        exp = 0;
-        expNeeded = level * 100;
-    }
+    
 }

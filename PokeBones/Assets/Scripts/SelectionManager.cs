@@ -4,16 +4,14 @@ using UnityEngine;
 
 public class SelectionManager : MonoBehaviour
 {
-    public List<int> selectedPokemon = new List<int>();
-    public List<Sprite> sprites = new List<Sprite>();
+    public string selectedPokemon;
+    public List<GameObject> sprites = new List<GameObject>();
+
+    NetworkClient myClient;
+    public GameObject confirmButton;
 
     public static SelectionManager instance;
-
-    void Start()
-    {
-            
-    }
-
+    
     private void Awake()
     {
         if (instance != null)
@@ -23,13 +21,25 @@ public class SelectionManager : MonoBehaviour
             return;
         }
         instance = this;
+        
+    }
 
-        DontDestroyOnLoad(this.gameObject);
+    private void Start()
+    {
+        myClient = GameObject.Find("ClientObject").GetComponent<NetworkClient>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        myClient.myPlayer.selectedPokemon = selectedPokemon;
+        if (confirmButton)
+        {
+            if (selectedPokemon.Length != 3)
+            {
+                confirmButton.SetActive(false);
+            }
+            else confirmButton.SetActive(true);
+        }
     }
 }

@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: 61d3626cba09f22478edcfdb7ab3ca2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6235573545761597745
+    second: cf_0
+  - first:
+      213: 5031568333933940349
+    second: cf_1
+  - first:
+      213: 884968579081547814
+    second: cf_2
+  - first:
+      213: 7175644376708591629
+    second: cf_3
+  - first:
+      213: -2582125076921535590
+    second: cf_4
+  - first:
+      213: 5006311420880672948
+    second: cf_5
+  - first:
+      213: 1421851617137363866
+    second: cf_6
+  - first:
+      213: 61579571613756164
+    second: cf_7
+  - first:
+      213: 6398846492877922713
+    second: cf_8
+  - first:
+      213: 1191531220991836875
+    second: cf_9
+  - first:
+      213: 211611438498497418
+    second: cf_10
+  - first:
+      213: 2668136311736751269
+    second: cf_11
+  - first:
+      213: -9131237998473659869
+    second: cf_12
+  - first:
+      213: 5676373277702066343
+    second: cf_13
+  - first:
+      213: -4654109895848849757
+    second: cf_14
+  - first:
+      213: 7178676904580561354
+    second: cf_15
+  - first:
+      213: -2093979513042801440
+    second: cf_16
+  - first:
+      213: 4468929592679451522
+    second: cf_17
+  - first:
+      213: 2558449885080410752
+    second: cf_18
+  - first:
+      213: -8955856409276256729
+    second: cf_19
+  - first:
+      213: 4842972852937292569
+    second: cf_20
+  - first:
+      213: -534126097953968426
+    second: cf_21
+  - first:
+      213: -1552263241457994980
+    second: cf_22
+  - first:
+      213: -716407735960025074
+    second: cf_23
+  - first:
+      213: 8237635209418144089
+    second: cf_24
+  - first:
+      213: -3288328691970940421
+    second: cf_25
+  - first:
+      213: -8170282852396096793
+    second: cf_26
+  - first:
+      213: 1910517886559144003
+    second: cf_27
+  - first:
+      213: 6594728595024026675
+    second: cf_28
+  - first:
+      213: -4416997890190928186
+    second: cf_29
+  - first:
+      213: 4387590522417153540
+    second: cf_30
+  - first:
+      213: 5407324748327107368
+    second: cf_31
+  - first:
+      213: -6872578658372400044
+    second: cf_32
+  - first:
+      213: -5203633256862859548
+    second: cf_33
+  - first:
+      213: -7210741767656563104
+    second: cf_34
+  - first:
+      213: -8061084128659736667
+    second: cf_35
+  - first:
+      213: -2792448004514245497
+    second: cf_36
+  - first:
+      213: -4056193749033427715
+    second: cf_37
+  - first:
+      213: -5631770693123929384
+    second: cf_38
+  - first:
+      213: -6359090144974624722
+    second: cf_39
+  - first:
+      213: 5362769412538911962
+    second: cf_40
+  - first:
+      213: 5352358937884651052
+    second: cf_41
+  - first:
+      213: 6296011947584425229
+    second: cf_42
+  - first:
+      213: -1237417655519764474
+    second: cf_43
+  - first:
+      213: -2354912273969082624
+    second: cf_44
+  - first:
+      213: -5921592265063248469
+    second: cf_45
+  - first:
+      213: 6482405439661118550
+    second: cf_46
+  - first:
+      213: 7268046550864212538
+    second: cf_47
+  - first:
+      213: 1659007727577992857
+    second: cf_48
+  - first:
+      213: 7231195556411478820
+    second: cf_49
+  - first:
+      213: 7916495972612995823
+    second: cf_50
+  - first:
+      213: -1736265621073556617
+    second: cf_51
+  - first:
+      213: -273272191524584170
+    second: cf_52
+  - first:
+      213: 6559474080827412686
+    second: cf_53
+  - first:
+      213: -4328972845290942745
+    second: cf_54
+  - first:
+      213: -5622501097055890356
+    second: cf_55
+  - first:
+      213: 5584513006942465804
+    second: cf_56
+  - first:
+      213: 853565630172121068
+    second: cf_57
+  - first:
+      213: 924348199765376510
+    second: cf_58
+  - first:
+      213: 6439381681143086630
+    second: cf_59
+  - first:
+      213: -3510988752990938949
+    second: cf_60
+  - first:
+      213: -4156701422411701558
+    second: cf_61
+  - first:
+      213: 7570039972054153396
+    second: cf_62
+  - first:
+      213: -2210283759221521649
+    second: cf_63
+  - first:
+      213: 4485344319558798982
+    second: cf_64
+  - first:
+      213: -1082351279696598170
+    second: cf_65
+  - first:
+      213: 1409521054103583904
+    second: cf_66
+  - first:
+      213: -2422903566383783952
+    second: cf_67
+  - first:
+      213: 7342636746513784020
+    second: cf_68
+  - first:
+      213: -5968529630906323471
+    second: cf_69
+  - first:
+      213: -2745776719757483082
+    second: cf_70
+  - first:
+      213: -2592453132536104015
+    second: cf_71
+  - first:
+      213: -135135829127534721
+    second: cf_72
+  - first:
+      213: -6117955550465015060
+    second: cf_73
+  - first:
+      213: 5813647330816993718
+    second: cf_74
+  - first:
+      213: -4689610127688961647
+    second: cf_75
+  - first:
+      213: -7768968443172849058
+    second: cf_76
+  - first:
+      213: 2657341446770692060
+    second: cf_77
+  - first:
+      213: -6734005532125007767
+    second: cf_78
+  - first:
+      213: 8420319808776961864
+    second: cf_79
+  - first:
+      213: 8428340440166827328
+    second: cf_80
+  - first:
+      213: 5255083607797208317
+    second: cf_81
+  - first:
+      213: 2931904884554240749
+    second: cf_82
+  - first:
+      213: -7245921849050352686
+    second: cf_83
+  - first:
+      213: -3163216411564624425
+    second: cf_84
+  - first:
+      213: -4285756011428101730
+    second: cf_85
+  - first:
+      213: -684257712354408213
+    second: cf_86
+  - first:
+      213: 8749400410861041002
+    second: cf_87
+  - first:
+      213: 7862886883877122447
+    second: cf_88
+  - first:
+      213: 8956251271904592576
+    second: cf_89
+  - first:
+      213: -6928933719400186886
+    second: cf_90
+  - first:
+      213: -5957200566224944972
+    second: cf_91
+  - first:
+      213: -6766988220374249019
+    second: cf_92
+  - first:
+      213: 7251939916623094386
+    second: cf_93
+  - first:
+      213: 3934258581274973072
+    second: cf_94
+  - first:
+      213: 4864245901489845874
+    second: cf_95
+  - first:
+      213: -2614334693363242183
+    second: cf_96
+  - first:
+      213: -4672733743713746857
+    second: cf_97
+  - first:
+      213: 2732842371126475254
+    second: cf_98
+  - first:
+      213: -2318857623641423702
+    second: cf_99
+  - first:
+      213: 3451110874783730902
+    second: cf_100
+  - first:
+      213: -1166704747599803706
+    second: cf_101
+  - first:
+      213: -237840037335001891
+    second: cf_102
+  - first:
+      213: 3940351653647418665
+    second: cf_103
+  - first:
+      213: -378701885038878276
+    second: cf_104
+  - first:
+      213: -291390191791143252
+    second: cf_105
+  - first:
+      213: 1325390221669646055
+    second: cf_106
+  - first:
+      213: -5682270257624759864
+    second: cf_107
+  - first:
+      213: 4561332394995152058
+    second: cf_108
+  - first:
+      213: -6152911045138586831
+    second: cf_109
+  - first:
+      213: 6662275618261289290
+    second: cf_110
+  - first:
+      213: 1086815317046953484
+    second: cf_111
+  - first:
+      213: -8714283620019584438
+    second: cf_112
+  - first:
+      213: 727174446429864018
+    second: cf_113
+  - first:
+      213: 5226001785945529442
+    second: cf_114
+  - first:
+      213: -518760117121485316
+    second: cf_115
+  - first:
+      213: -2708720043926349595
+    second: cf_116
+  - first:
+      213: 8030234988234661366
+    second: cf_117
+  - first:
+      213: 4557527223259232727
+    second: cf_118
+  - first:
+      213: 8406083933771473216
+    second: cf_119
+  - first:
+      213: -2831994744286300226
+    second: cf_120
+  - first:
+      213: -6974953126431125577
+    second: cf_121
+  - first:
+      213: -8810044464081740551
+    second: cf_122
+  - first:
+      213: -2563364615730387547
+    second: cf_123
+  - first:
+      213: -2993111492098061314
+    second: cf_124
+  - first:
+      213: 6197727602620221525
+    second: cf_125
+  - first:
+      213: -397249125628829941
+    second: cf_126
+  - first:
+      213: 7632874585715097947
+    second: cf_127
+  - first:
+      213: -2565493127277729022
+    second: cf_128
+  - first:
+      213: -6489243281872831057
+    second: cf_129
+  - first:
+      213: -4350378911866629537
+    second: cf_130
+  - first:
+      213: -5128159546596844430
+    second: cf_131
+  - first:
+      213: 8707446497091282998
+    second: cf_132
+  - first:
+      213: -7898454957609421655
+    second: cf_133
+  - first:
+      213: 5866559074408485818
+    second: cf_134
+  - first:
+      213: -7957164136934191469
+    second: cf_135
+  - first:
+      213: 1308625844124585986
+    second: cf_136
+  - first:
+      213: -4530350569109837786
+    second: cf_137
+  - first:
+      213: 8086233366166767449
+    second: cf_138
+  - first:
+      213: 154273855400813596
+    second: cf_139
+  - first:
+      213: 6419220767488776059
+    second: cf_140
+  - first:
+      213: 2288236244465289848
+    second: cf_141
+  - first:
+      213: -6260552881021541746
+    second: cf_142
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13961f53a15398650800000000000000
+      internalID: 6235573545761597745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8c37cdb8b3d540800000000000000
+      internalID: 5031568333933940349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620b981eb3a084c00800000000000000
+      internalID: 884968579081547814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00be3cda82059360800000000000000
+      internalID: 7175644376708591629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b6785ce27a2cd0800000000000000
+      internalID: -2582125076921535590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d29476bdf97540800000000000000
+      internalID: 5006311420880672948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b89c2338e6bb310800000000000000
+      internalID: 1421851617137363866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b657b4b46cad000800000000000000
+      internalID: 61579571613756164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912e349bf44dc850800000000000000
+      internalID: 6398846492877922713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2810e155b298010800000000000000
+      internalID: 1191531220991836875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83cc1e6b7bcfe200800000000000000
+      internalID: 211611438498497418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d361d6df170520800000000000000
+      internalID: 2668136311736751269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_12
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abd657b63574180800000000000000
+      internalID: -9131237998473659869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_13
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a093fddb6786ce40800000000000000
+      internalID: 5676373277702066343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_14
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8c4055b7496fb0800000000000000
+      internalID: -4654109895848849757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_15
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac933d64c98cf9360800000000000000
+      internalID: 7178676904580561354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_16
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec632e2ab0b0f2e0800000000000000
+      internalID: -2093979513042801440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_17
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bc3e189c3d40e30800000000000000
+      internalID: 4468929592679451522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_18
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5bdf7d90718320800000000000000
+      internalID: 2558449885080410752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_19
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 637
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eeea1cb0866b380800000000000000
+      internalID: -8955856409276256729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bff2c8622b53340800000000000000
+      internalID: 4842972852937292569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de2032d4276698f0800000000000000
+      internalID: -534126097953968426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13fffe5ec0457ae0800000000000000
+      internalID: -1552263241457994980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c2c7b5fece06f0800000000000000
+      internalID: -716407735960025074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9597e9ef395f15270800000000000000
+      internalID: 8237635209418144089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e85a1a728d52d0800000000000000
+      internalID: -3288328691970940421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e22774a8035d9e80800000000000000
+      internalID: -8170282852396096793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_27
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348436d35e5838a10800000000000000
+      internalID: 1910517886559144003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_28
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c948087be258b50800000000000000
+      internalID: 6594728595024026675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_29
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6158532dba3b2c0800000000000000
+      internalID: -4416997890190928186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_30
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068b8c655ad3ec30800000000000000
+      internalID: 4387590522417153540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_31
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b3739953daa0b40800000000000000
+      internalID: 5407324748327107368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_32
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c48c86f12bf90a0800000000000000
+      internalID: -6872578658372400044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_33
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb7477f1bf8c7b0800000000000000
+      internalID: -5203633256862859548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_34
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e12c3019c4eeb90800000000000000
+      internalID: -7210741767656563104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_35
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a772b6c1b6412090800000000000000
+      internalID: -8061084128659736667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_36
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841e2db55b3f39d0800000000000000
+      internalID: -2792448004514245497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_37
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd3b0a64185b7c0800000000000000
+      internalID: -4056193749033427715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_38
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da84eb946ee7d1b0800000000000000
+      internalID: -5631770693123929384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_39
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 546
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28a91e7439ffb7a0800000000000000
+      internalID: -6359090144974624722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc46b61e526c6a40800000000000000
+      internalID: 5362769412538911962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e60039816674a40800000000000000
+      internalID: 5352358937884651052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8265328def5750800000000000000
+      internalID: 6296011947584425229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a2fbc23fc3dee0800000000000000
+      internalID: -1237417655519764474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8dd083cba15fd0800000000000000
+      internalID: -2354912273969082624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad4438753742dda0800000000000000
+      internalID: -5921592265063248469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_46
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6549f01f66126f950800000000000000
+      internalID: 6482405439661118550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b34b84d94dd460800000000000000
+      internalID: 7268046550864212538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_48
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e0ae90dbaf50710800000000000000
+      internalID: 1659007727577992857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4231a49cb0e5a5460800000000000000
+      internalID: 7231195556411478820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_50
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea7869c42b0ddd60800000000000000
+      internalID: 7916495972612995823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_51
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0034ed9b87e7e0800000000000000
+      internalID: -1736265621073556617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_52
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6154f21c364253cf0800000000000000
+      internalID: -273272191524584170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_53
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec099154ceee70b50800000000000000
+      internalID: 6559474080827412686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_54
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee0f1212266ce3c0800000000000000
+      internalID: -4328972845290942745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_55
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445db0aa0dd8f1b0800000000000000
+      internalID: -5622501097055890356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_56
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0faa56edfc208d40800000000000000
+      internalID: 5584513006942465804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_57
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce744e21b6978db00800000000000000
+      internalID: 853565630172121068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_58
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd79cf4ac1f3dc00800000000000000
+      internalID: 924348199765376510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_59
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 455
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef0bd85874d5950800000000000000
+      internalID: 6439381681143086630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb85597c456764fc0800000000000000
+      internalID: -3510988752990938949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22ac7541e6056c0800000000000000
+      internalID: -4156701422411701558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8bbcd2f3f2e0960800000000000000
+      internalID: 7570039972054153396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0349cea1ae7351e0800000000000000
+      internalID: -2210283759221521649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_64
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e4e9ee4e42f3e30800000000000000
+      internalID: 4485344319558798982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bae73ee37baf0f0800000000000000
+      internalID: -1082351279696598170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac37454eef9f8310800000000000000
+      internalID: 1409521054103583904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_67
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffdaa02b0e106ed0800000000000000
+      internalID: -2422903566383783952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_68
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1faec73946e560800000000000000
+      internalID: 7342636746513784020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_69
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd6f6e5ce58b2da0800000000000000
+      internalID: -5968529630906323471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_70
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b361520f9a05e9d0800000000000000
+      internalID: -2745776719757483082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_71
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb36528c91c50cd0800000000000000
+      internalID: -2592453132536104015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_72
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ec6ceda6ef1ef0800000000000000
+      internalID: -135135829127534721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_73
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce247e657d7a81ba0800000000000000
+      internalID: -6117955550465015060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_74
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9aeb202793ea050800000000000000
+      internalID: 5813647330816993718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_75
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191760c7f682beeb0800000000000000
+      internalID: -4689610127688961647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_76
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7679dc541f2490800000000000000
+      internalID: -7768968443172849058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_77
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf80b577f5c0e420800000000000000
+      internalID: 2657341446770692060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_78
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9607c2695a10c82a0800000000000000
+      internalID: -6734005532125007767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_79
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 364
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff559d04cfad470800000000000000
+      internalID: 8420319808776961864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045043e99fa77f470800000000000000
+      internalID: 8428340440166827328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df41bbbd2becde840800000000000000
+      internalID: 5255083607797208317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2961765f730b820800000000000000
+      internalID: 2931904884554240749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3bc150870517b90800000000000000
+      internalID: -7245921849050352686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53101ee6ff914d0800000000000000
+      internalID: -3163216411564624425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_85
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9145d05d9fe584c0800000000000000
+      internalID: -4285756011428101730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84b486c370186f0800000000000000
+      internalID: -684257712354408213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_87
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65770f315d1c6970800000000000000
+      internalID: 8749400410861041002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_88
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f29626f59e1d60800000000000000
+      internalID: 7862886883877122447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_89
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2830d541ffa4c70800000000000000
+      internalID: 8956251271904592576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_90
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbfce64e7b77df90800000000000000
+      internalID: -6928933719400186886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_91
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0086ac5a5c35da0800000000000000
+      internalID: -5957200566224944972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_92
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1175d0114d612a0800000000000000
+      internalID: -6766988220374249019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_93
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272abc68ee014a460800000000000000
+      internalID: 7251939916623094386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_94
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935d67c55b499630800000000000000
+      internalID: 3934258581274973072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_95
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b37220e5418340800000000000000
+      internalID: 4864245901489845874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_96
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93baa1e927408bbd0800000000000000
+      internalID: -2614334693363242183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_97
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75006f3da6d172fb0800000000000000
+      internalID: -4672733743713746857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_98
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9312648a10de520800000000000000
+      internalID: 2732842371126475254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_99
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 273
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa08522f643c1dfd0800000000000000
+      internalID: -2318857623641423702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc8fb4e0fc4ef20800000000000000
+      internalID: 3451110874783730902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_101
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca4d89a6380fcfe0800000000000000
+      internalID: -1166704747599803706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_102
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd418450fb503bcf0800000000000000
+      internalID: -237840037335001891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_103
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92507cdb3f0fea630800000000000000
+      internalID: 3940351653647418665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_104
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ac7a54a49ebaf0800000000000000
+      internalID: -378701885038878276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_105
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca681471a26c4fbf0800000000000000
+      internalID: -291390191791143252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_106
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3567626bb46210800000000000000
+      internalID: 1325390221669646055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_107
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c142808e458421b0800000000000000
+      internalID: -5682270257624759864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_108
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4fa2275ab1d4f30800000000000000
+      internalID: 4561332394995152058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_109
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133efe301087c9aa0800000000000000
+      internalID: -6152911045138586831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_110
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c5366068257c50800000000000000
+      internalID: 6662275618261289290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_111
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06890dc5c4251f00800000000000000
+      internalID: 1086815317046953484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_112
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a424ab4c735a01780800000000000000
+      internalID: -8714283620019584438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_113
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25081396e41771a00800000000000000
+      internalID: 727174446429864018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_114
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c17de8fec768840800000000000000
+      internalID: 5226001785945529442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_115
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf575570c6efcc8f0800000000000000
+      internalID: -518760117121485316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_116
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e81ac1b871b86ad0800000000000000
+      internalID: -2708720043926349595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_117
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd3a00d20217f60800000000000000
+      internalID: 8030234988234661366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_118
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f98cdcd69f3f30800000000000000
+      internalID: 4557527223259232727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_119
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 182
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412198ecc868a470800000000000000
+      internalID: 8406083933771473216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ba0dd8cbb2b8d0800000000000000
+      internalID: -2831994744286300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf821e161df33f90800000000000000
+      internalID: -6974953126431125577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_122
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd20fcc3f6cb580800000000000000
+      internalID: -8810044464081740551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_123
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a59996791d6cd0800000000000000
+      internalID: -2563364615730387547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_124
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0b54c4f45676d0800000000000000
+      internalID: -2993111492098061314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_125
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558cfc8ea60c20650800000000000000
+      internalID: 6197727602620221525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1f836600bc7af0800000000000000
+      internalID: -397249125628829941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_127
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c7a8befa6de960800000000000000
+      internalID: 7632874585715097947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_128
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba7e2e799856cd0800000000000000
+      internalID: -2565493127277729022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_129
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad31eadd9391f5a0800000000000000
+      internalID: -6489243281872831057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_130
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d6dfcd6950a3c0800000000000000
+      internalID: -4350378911866629537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_131
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1191001e15d8b0800000000000000
+      internalID: -5128159546596844430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_132
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63868df747017d870800000000000000
+      internalID: 8707446497091282998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_133
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47449501d036290800000000000000
+      internalID: -7898454957609421655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_134
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab356f355643a6150800000000000000
+      internalID: 5866559074408485818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_135
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4f865069729190800000000000000
+      internalID: -7957164136934191469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_136
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20011f6954c292210800000000000000
+      internalID: 1308625844124585986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_137
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62828340926f021c0800000000000000
+      internalID: -4530350569109837786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_138
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95708416762183070800000000000000
+      internalID: 8086233366166767449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_139
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 91
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ab4d0147142200800000000000000
+      internalID: 154273855400813596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779afc0747a51950800000000000000
+      internalID: 6419220767488776059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_141
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0781adb271cf10800000000000000
+      internalID: 2288236244465289848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cf_142
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a925135c0e19a0800000000000000
+      internalID: -6260552881021541746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

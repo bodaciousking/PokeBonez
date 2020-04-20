@@ -9,22 +9,11 @@ public class BattleHud : MonoBehaviour
     public TextMeshProUGUI nameText, levelText;
     public Slider hpSlider;
 
-    public void SetHud(Unit unit)
+    public void SetHud(string unitName, int _cHealth, int _mHealth, int _lvl)
     {
-        nameText.text = unit.unitName;
-        levelText.text = "Lvl " + unit.unitLevel;
-        hpSlider.maxValue = unit.maxHP;
-        hpSlider.value = unit.currentHP;
-    }
-
-    public void SetHP(int hp)
-    {
-        hpSlider.value = hp;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        nameText.text = unitName;
+        levelText.text = "Lvl " + _lvl;
+        hpSlider.maxValue = _mHealth;
+        hpSlider.value = _cHealth;
     }
 }

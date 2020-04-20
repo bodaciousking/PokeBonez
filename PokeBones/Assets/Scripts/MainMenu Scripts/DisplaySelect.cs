@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class DisplaySelect : MonoBehaviour
 {
-    public int index, selectedID = 0;
+    public int index;
+    public int selectedID = 0;
     Image myImage;
     SelectionManager sM;
     
@@ -18,11 +19,11 @@ public class DisplaySelect : MonoBehaviour
 
     private void Update()
     {
-        if (sM.selectedPokemon.Count >= index)
+        if (sM.selectedPokemon.Length > index)
         {
             myImage.enabled = true;
-            selectedID = sM.selectedPokemon[index-1];
-            myImage.sprite = sM.sprites[selectedID-1];
+            selectedID = int.Parse(sM.selectedPokemon[index].ToString());
+            myImage.sprite = sM.sprites[selectedID].GetComponent<SpriteRenderer>().sprite;
         }
     }
 }

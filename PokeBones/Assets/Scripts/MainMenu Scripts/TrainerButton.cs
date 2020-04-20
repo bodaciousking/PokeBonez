@@ -10,6 +10,5 @@ public class TrainerButton : MonoBehaviour
     public void SwitchImage()
     {
         tD.correspondingButton = this.gameObject;
-        tC.trainerID = trainerID;
     }
 }

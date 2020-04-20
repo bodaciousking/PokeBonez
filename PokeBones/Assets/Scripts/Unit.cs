@@ -5,20 +5,21 @@ using UnityEngine;
 public class Unit : MonoBehaviour
 {
     public string unitName;
-    public Sprite profilePic;
     public bool fainted = false;
-    public int unitLevel, maxHP, currentHP;
+    public bool close;
+    public int unitLevel, maxHP, currentHP, unitID;
     public List<Ability> AbilitiesList = new List<Ability>();
-
-    BattleSystem bS;
+    
     DialogueScript dS;
 
     public void Init()
     {
         currentHP = maxHP;
-        AbilitiesList.Add(new Tackle());
-        bS = BattleSystem.instance;
         dS = DialogueScript.instance;
+    }
+    public void AddTackle()
+    {
+        AbilitiesList.Add(new Tackle());
     }
 }
 
@@ -26,6 +27,8 @@ public class Ability
 {
     public string abilityName;
     public PkType abilityType;
+    public bool dealsDamage;
+    public int abilityDamage;
 
     public virtual void ActivateAbility()
     {
@@ -37,11 +40,11 @@ public class Ability
 
 public class Tackle : Ability
 {
-    protected int abilityDamage;
     public
     Tackle()
     {
         abilityName = "Tackle";
+        dealsDamage = true;
         abilityDamage = 5;
         //abilityType = new Normal();
     }
@@ -49,7 +52,6 @@ public class Tackle : Ability
     public override void ActivateAbility()
     {
         base.ActivateAbility();
-        BattleSystem bS = BattleSystem.instance;
-        bS.DealDamage(abilityDamage);
+        // bS.DealDamage(abilityDamage);
     }
 }

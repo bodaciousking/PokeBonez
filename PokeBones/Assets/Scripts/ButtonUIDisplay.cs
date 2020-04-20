@@ -7,12 +7,15 @@ using TMPro;
 public class ButtonUIDisplay : MonoBehaviour
 {
     public static ButtonUIDisplay instance;
-    PokemonSwitcher pS;
 
     public Button abilityButton;
-
-    GameObject fightingPokemon;
+    
     Unit fPUnit;
+    HudUpdater hU;
+
+    public GameObject newGM;
+
+
 
     void Start()
     {
@@ -20,9 +23,8 @@ public class ButtonUIDisplay : MonoBehaviour
 
     public void UpdateAbilityButtons()
     {
-        pS = PokemonSwitcher.instance;
-        fightingPokemon = pS.closePKMN;
-        fPUnit = fightingPokemon.GetComponent<Unit>();
+        hU = newGM.GetComponent<HudUpdater>();
+        fPUnit = hU.p1current;
         string holderName = "AbilitiesPanel";
         if (GameObject.Find(holderName))
         {
@@ -33,13 +35,23 @@ public class ButtonUIDisplay : MonoBehaviour
                 newButton.transform.localScale = Vector3.one;
                 newButton.GetComponentInChildren<TextMeshProUGUI>().text = fPUnit.AbilitiesList[i].abilityName;
                 newButton.onClick.RemoveAllListeners();
-                newButton.onClick.AddListener(() => OnButtonClick(i));
+                newButton.onClick.AddListener(() => OnButtonClick());
             }
         }
     }
-    public void OnButtonClick(int _i)
+
+    public void OnButtonClick()
     {
-        fPUnit.AbilitiesList[_i-1].ActivateAbility();
+        NetworkClient nC = null;
+        if (GameObject.Find("ClientObject"))
+            nC = GameObject.Find("ClientObject").GetComponent<NetworkClient>();
+        else if (GameObject.Find("TesClientSceneLoader"))
+            nC = GameObject.Find("TesClientSceneLoader").GetComponent<NetworkClient>();
+
+        DeleteAllButtons();
+        nC.UseAbility(fPUnit);
+        DialogueScript dS = GameObject.Find("newGM").GetComponent<DialogueScript>();
+        dS.backButton.SetActive(false);
     }
 
     public void DeleteAllButtons()
